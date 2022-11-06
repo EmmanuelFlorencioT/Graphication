@@ -1,0 +1,6 @@
+﻿  myParser.cpp
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\myParser\src\myParser.cpp(30,50): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\myParser\src\myParser.cpp(43,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\myParser\src\myParser.cpp(44,50): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\myParser\src\myParser.cpp(55,27): warning C4018: '<': no coinciden signed/unsigned
+  myParser.vcxproj -> C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Debug\myParser.lib

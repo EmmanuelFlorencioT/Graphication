@@ -1,0 +1,32 @@
+﻿  Main.cpp
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(42,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(62,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(82,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(127,98): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(128,98): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(129,98): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(223,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(225,52): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(226,47): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(230,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(235,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(253,16): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(255,17): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(255,33): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(255,49): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(255,63): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(303,30): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(303,46): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(307,16): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(307,33): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(307,50): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(308,16): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(308,32): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(308,48): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(309,16): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(309,32): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(309,48): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(310,16): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(310,32): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Main.cpp(310,49): warning C4305: '=': truncamiento de 'double' a 'float'
+  Basics.vcxproj -> C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Graficación por Computadora\Basics\Debug\Basics.exe
